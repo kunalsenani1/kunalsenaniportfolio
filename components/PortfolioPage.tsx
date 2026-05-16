@@ -368,7 +368,9 @@ function Showreel() {
             Edits are shaped for story, rhythm, platform behavior, and emotion: fast-paced reels,
             polished podcasts, cinematic campaign films, music videos, documentaries, and YouTube
             cuts with clean retention logic.
-          </p>
+          </href="#showreel"href="https://youtu.be/rg1Yn9ctYWs"
+
+
           <div className="mt-8 flex flex-wrap gap-3">
             {showreelTags.map((tag) => (
               <motion.span
