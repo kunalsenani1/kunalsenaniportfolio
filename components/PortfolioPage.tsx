@@ -210,7 +210,8 @@ function EditingConsole() {
               target="_blank"
               rel="noreferrer"
               className="absolute left-1/2 top-1/2 grid h-24 w-24 -translate-x-1/2 -translate-y-1/2 place-items-center rounded-full border border-cyanfire/50 bg-cyanfire/10 text-cyanfire shadow-glow transition hover:scale-105 hover:bg-cyanfire hover:text-ink"
-              aria-label="Play showreel preview"
+              aria-label="Play https://youtu.be/rg1Yn9ctYWs
+"
             >
               <Play size={36} fill="currentColor" />
             </a>
