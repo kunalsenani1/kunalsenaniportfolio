@@ -335,7 +335,8 @@ function Hero() {
   );
 }
 
-function Showreel() {
+function https://youtu.be/rg1Yn9ctYWs
+() {
   return (
     <Section id="showreel" eyebrow="Featured Showreel" title="Cinematic pacing built for modern attention.">
       <div className="grid items-center gap-10 lg:grid-cols-[1.2fr_0.8fr]">
